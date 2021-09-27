@@ -1,0 +1,195 @@
+body {
+
+color: black;
+ background-image: url(../image/sari1.jpg);
+ line-height: 2rem;
+   font-family: "Garamond", Times, serif;
+     padding: 5px;
+
+}
+h2 {
+font-size: 28px;
+color:pink;
+font-weight: bold;
+}
+
+nav {
+
+font-size: 32px;
+background-color: hsl(0, 100%, 25%);
+letter-spacing: 7px;
+opacity: 0.6;
+color: white;
+  text-shadow: 2px 2px 5px grey;
+}
+
+li.hidden {
+visibility: hidden;
+}
+li{
+display: inline;
+}
+
+header {
+color: pink;
+text-align: center;
+font-size: 40px;
+letter-spacing: 10px;
+opacity: 0.6;
+font-weight: bold;
+  text-shadow: 2px 2px 5px grey;
+}
+
+footer {
+letter-spacing: 10px;
+color: black;
+
+font-size: 30px;
+font-weight: bold;
+  text-align: center;
+
+  font-size: 18px;
+}
+
+
+
+}
+
+
+
+.grid-container {
+  display: grid;
+    grid-gap: 10px;
+    background-color: black;
+    opacity:0.6;
+    padding: 10px;
+    width: 1225px;
+}
+
+
+
+.grid-container {
+  display: grid;
+  grid-gap: 10px;
+  background-color: black;
+  padding: 10px;
+
+}
+
+.grid-item {
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+
+}
+
+
+
+
+.item1 {
+  grid-column: 1 ;
+  grid-row: 1 ;;
+       border: dashed;
+          opacity: 0.85;
+          left: 0;
+          width; 450px;
+              background-color: hsl(0, 100%, 25%);
+              color: black;
+
+
+}
+
+.item2 {
+  grid-column: 2;
+  grid-row: 1;
+
+
+
+}
+
+.item5 {
+  grid-column: 2 / span 3;
+  grid-row: 2;
+    background-color: hsl(0, 100%, 25%);
+      border: dashed;
+        font-size: 22px;
+        width: 725px;
+
+}
+
+
+
+
+. qual{
+
+font-size: 40px;
+background-color: hsl(0, 100%, 25%);
+letter-spacing: 10px;
+opacity: 0.6;
+color: black;
+  text-shadow: 2px 2px 5px grey;
+}
+
+li.hob {
+display: block;
+font-family: Papyrus, Copperplate, Fantasy;
+font-weight: bold;
+}
+
+ol {
+line-height: 2rem;
+}
+
+.t1 {
+background-color: black;
+opacity: 0.75;
+color: white;
+}
+
+table, td, th {
+ border: 1px solid white;
+ text-align: center;
+}
+table {
+width: 100%;
+}
+
+.qual {
+color: pink;
+font-size: 36px;
+text-align: center;
+background-color: hsl(0, 100%, 25%);
+opacity: 0.6;
+}
+
+.p1 {
+background-color: black;
+opacity: 0.85;
+color: white;
+}
+
+.web {
+color:ivory;
+background-color:grey;
+right:0;
+font-size: 20px;
+}
+
+.p2 {
+font-size; 22px;
+color: pink;
+font-family: Papyrus, Copperplate, Fantasy;
+font-weight: bold;
+}
+
+.about {
+color: pink;
+font-size: 40px;
+text-align: center;
+background-color: hsl(0, 100%, 25%);
+opacity: 0.6;
+font-family: Papyrus, Copperplate, Fantasy;
+font-weight: bold;
+ letter-spacing: 10px;
+
+}
