@@ -1,13 +1,18 @@
 * {
 
 color: black;
- background-image: url(../image/sari1.jpg);
  line-height: 2rem;
    font-family: "Garamond", Times, serif;
      padding: 5px;
    text-decoration: none;
     text-align: center;
 
+}
+
+body {
+ 
+  background-image: url(../image/sari1.jpg);
+ 
 }
 h2 {
 font-size: 28px;
