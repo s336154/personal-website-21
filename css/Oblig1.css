@@ -30,6 +30,22 @@ visibility: hidden;
 }
 li{
 display: inline;
+  letter-spacing: 3px;
+  display: inline;
+  font-size: 70px;
+  width: 100%;
+   font-stretch: extended;
+ font-weight: bold;
+}
+
+nav li a:hover {
+text-decoration: underline;
+background-color: lightgray;
+padding: 3px;
+position: relative;
+top: -4px;
+
+
 }
 
 header {
